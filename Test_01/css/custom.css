@@ -1,0 +1,8 @@
+.jumbotron {
+    padding: 1rem 1.5rem;
+}
+
+#indicator{
+    color: red;
+    text-align: center;
+}
